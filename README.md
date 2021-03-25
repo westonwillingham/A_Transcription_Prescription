@@ -1,4 +1,13 @@
 # Capstone2
+    - Neural Style Transfer
+    -   https://github.com/jcjohnson/neural-style
+    -◦ https://junyanz.github.io/CycleGAN/
+        ◦ https://github.com/jcjohnson/neural-style
+            ▪ The idea would be to perfectly recreate the style of various artists and launch a Flask app that lets people upload their image and obtain an image back that has the artists’ style implemented in the art 
+            ▪ I was never a good artist, and I did a lot of music, but I feel like I am now able to make my own paintings by stealing style with AI 
+     - My goal would be to use other artists's work, and recreate images of famous people under these filters 
+     - Like this https://www.reddit.com/r/JoeRogan/comments/lsksms/i_asked_ai_to_make_an_alex_grey_spirit_molecule/
+     - A video doing it https://www.facebook.com/thefakening/videos/675371232969429
 
     • Classifying different types of music 
         ◦ What if I looked at the image of the frequencies and tried to see if there were parallels? 
