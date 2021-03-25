@@ -8,6 +8,14 @@
      - My goal would be to use other artists's work, and recreate images of famous people under these filters 
      - Like this https://www.reddit.com/r/JoeRogan/comments/lsksms/i_asked_ai_to_make_an_alex_grey_spirit_molecule/
      - A video doing it https://www.facebook.com/thefakening/videos/675371232969429
+ 
+-Music Generation 
+    -Could I train an AI to understand how Stevie Ray Vaughn plays music and teach it new songs? 
+            ◦ Can an AI compose blues music?
+        ◦ Can I make an AI play like Stevie Ray Vaughn in any key? Let him do blues licks to any song? 
+        ◦ https://www.danieldjohnson.com/2015/08/03/composing-music-with-recurrent-neural-networks/	
+        ◦ https://people.idsia.ch//~juergen/blues/IDSIA-07-02.pdf
+    
 
     • Classifying different types of music 
         ◦ What if I looked at the image of the frequencies and tried to see if there were parallels? 
